@@ -1,6 +1,6 @@
-# Memorize
+# CS193P - Developing Apps for iOS 
 
-Application developed in the lectures for the Spring 2020 version of Stanford University's course CS193p (Developing Applications for iOS using SwiftUI).
+Applications developed in the lectures for the Spring 2020 version of Stanford University's course CS193p (Developing Applications for iOS using SwiftUI).
 
 https://cs193p.sites.stanford.edu/
 
@@ -29,7 +29,7 @@ The survey of the Swift type system completes with a discussion of enum.  An imp
 
 Access Control.  More about drawing, including the @ViewBuilder construct for expressing a conditional list of Views, the Shape protocol for custom drawing and ViewModifier, a mechanism for making incremental modifications to Views.
 
-## Lecture 6
+## [Lecture 6](https://github.com/edersonmberti/memorize/commit/bd350c2816fac99351969e89b7a868dba54f922b) ✅
 ### Animation
 
 @State (temporary state in a View) and property observers.  Deep dive into animation, including implicit vs. explicit animations, transitions, Shape animations, animating ViewModifiers and more.  Animate flipping of cards, new game and “pie” bonus countdown.
