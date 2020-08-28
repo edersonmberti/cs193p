@@ -39,7 +39,7 @@ Access Control.  More about drawing, including the @ViewBuilder construct for ex
 
 A brand new demo, EmojiArt, is embarked upon, starting off with a review of MVVM and then employing API such as ScrollView, UIImage and Drag & Drop.  After the concept of multithreading is covered, it is used to prevent blocking the UI while fetching a background image from the network.
 
-## Lecture 8 
+## [Lecture 8](https://github.com/edersonmberti/cs193p/commit/655bc131d1da2cddfc2cb9bc8c9be534a89d451a) ✅
 ### Gestures JSON
 
 A couple of persistence topics (UserDefaults API and JSON encoding/decoding) are covered as well as the conceptual underpinnings of multi-touch gesture handling.  EmojiArt is then enhanced to persist changes and to support pinching and dragging multi-touch gestures to zoom in and out and pan on the document.
