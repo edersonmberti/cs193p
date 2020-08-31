@@ -44,7 +44,7 @@ A brand new demo, EmojiArt, is embarked upon, starting off with a review of MVVM
 
 A couple of persistence topics (UserDefaults API and JSON encoding/decoding) are covered as well as the conceptual underpinnings of multi-touch gesture handling.  EmojiArt is then enhanced to persist changes and to support pinching and dragging multi-touch gestures to zoom in and out and pan on the document.
 
-## Lecture 9 
+## [Lecture 9](https://github.com/edersonmberti/cs193p/commit/44a9eeabe0d877ddd0eeb5febb3cfe2bb9fff2f3) ✅
 ### Data Flow
 
 Property wrappers (like @Published, @EnvironmentObject, @Binding) are discussed along with Publishers.  EmojiArt then uses these to autosave itself and to support choosing between multiple palettes of emoji.
