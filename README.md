@@ -54,7 +54,7 @@ Property wrappers (like @Published, @EnvironmentObject, @Binding) are discussed 
 
 Expanding the scope of a UI using modal presentation techniques and navigation.  Getting text from the user via a TextField.  Understanding the KeyPath type.  Storing multiple EmojiArt documents.
 
-## Lecture 11
+## [Lecture 11](https://github.com/edersonmberti/cs193p/commit/7e804fb5b075165bcbc7d4dc37ebde8db745b41e) ✅
 ### Enroute Picker
 
 The first of (the final) four lectures to cover topics for students to use in their final projects.  Picker.  Introduction of the Enroute demo code-base.
