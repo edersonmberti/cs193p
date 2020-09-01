@@ -49,7 +49,7 @@ A couple of persistence topics (UserDefaults API and JSON encoding/decoding) are
 
 Property wrappers (like @Published, @EnvironmentObject, @Binding) are discussed along with Publishers.  EmojiArt then uses these to autosave itself and to support choosing between multiple palettes of emoji.
 
-## Lecture 10
+## [Lecture 10](https://github.com/edersonmberti/cs193p/commit/d15d17b90cafe23596116cca08c76c71151b51f9) ✅
 ### Modal Presentation and Navigation
 
 Expanding the scope of a UI using modal presentation techniques and navigation.  Getting text from the user via a TextField.  Understanding the KeyPath type.  Storing multiple EmojiArt documents.
