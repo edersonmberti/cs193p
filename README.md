@@ -59,7 +59,7 @@ Expanding the scope of a UI using modal presentation techniques and navigation. 
 
 The first of (the final) four lectures to cover topics for students to use in their final projects.  Picker.  Introduction of the Enroute demo code-base.
 
-## Lecture 12
+## [Lecture 12](https://github.com/edersonmberti/cs193p/commit/c228ad8998066719fb00463f055eb604910dc819) ✅
 ### Core Data
 
 The Core Data object-oriented database.  Demo adds Core Data to Enroute.
